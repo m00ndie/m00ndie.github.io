@@ -44,7 +44,6 @@ Representing the above as a JWT results in:
 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NTQ1NDYsIm5hbWUiOiJtb29uZGllIiwicm9sZSI6ImFkbWluIn0.srtYpLd0RsQET5glbP2XQvRSapwx0oe9uftq0ks0nyo
 ```
 
-
 ### JWT Signing Algorithms
 
 - None: No algorithm is used for signing. This basically means the JWT cannot be verified.
