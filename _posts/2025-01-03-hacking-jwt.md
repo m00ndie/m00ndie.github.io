@@ -50,7 +50,7 @@ eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NTQ1NDYsIm5hbWUiOiJtb29uZGllIiwicm9
 - Symmetric signing: A symmetric signing algorithm such as HS265 creates the signature by appending a secret value to the header and body of the JWT before generating a hash value.
 - Asymmetric signing: Creates the signature by using a private key to sign the header and body of the JWT.
 
-For better understanding of Symmetric and Asymmetric encryption algorithms, check out this [blog post](https://www.geeksforgeeks.org/difference-between-symmetric-and-asymmetric-key-encryption/).
+For better understanding of Symmetric and Asymmetric encryption algorithms, check out this [post](https://www.geeksforgeeks.org/difference-between-symmetric-and-asymmetric-key-encryption/).
 
 ## Common JWT Vulnerabilities
 
