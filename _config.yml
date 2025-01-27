@@ -16,7 +16,7 @@ timezone: Africa/Accra
 
 title: Blog: m00ndie # the main title
 
-tagline: <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2444490" style='border:none;'></iframe> # it will display as the subtitle
+tagline: "<iframe src='https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2444490' style='border:none;'></iframe>" # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Personal Information Security Blog owned by m00ndie
