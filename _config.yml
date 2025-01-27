@@ -14,12 +14,12 @@ timezone: Africa/Accra
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: moondie # the main title
+title: Blog: m00ndie # the main title
 
-tagline: Welcome to my blog! # it will display as the subtitle
+tagline: <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2444490" style='border:none;'></iframe> # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  blog, m00ndie, ethical hacking, write-up, cybersecurity, infosec
+  Personal Information Security Blog owned by m00ndie
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
