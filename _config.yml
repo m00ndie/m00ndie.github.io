@@ -97,6 +97,10 @@ theme_mode: # [light | dark]
 # e.g. 'https://cdn.com'
 cdn:
 
+plugins:
+  - jekyll-seo-tag
+  - gemoji
+
 # the avatar on sidebar, support local or CORS resources
 avatar: https://pbs.twimg.com/profile_images/1862665889541181440/QoXRfE7Y_400x400.jpg
 
