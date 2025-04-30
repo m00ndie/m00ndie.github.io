@@ -37,7 +37,7 @@ Below is the code of how I implemented it. I designed it to mimic the `strlen` f
 - Compare each character in the string with "\0". If it's not "\0" increment the counter, if it is, exit the loop.
 - Return the counter
 
-```asm
+```nasm
 ;strlen.asm
 ;x86 implementation of C's strlen() function
 
