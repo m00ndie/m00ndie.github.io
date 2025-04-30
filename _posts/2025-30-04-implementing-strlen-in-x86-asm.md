@@ -4,7 +4,7 @@ description: "Detailed walkthrough on implementing strlen() in 32-bit x86 Assemb
 date: 2025-04-30 14:20:00 +0000
 tags: [Malware Development, 32-bit x86, Reverse Engineering, Assembly Language, C++, Cybersecurity tutorial, Assembly Tutorial]
 categories: [Cybersecurity, Malware Analysis, Reverse Engineering]
-image: /assets/images/post-30-04-25/banner.png
+image: /assets/images/post-30-04-25/banner.jpg
 permalink: /posts/implementing-strlen-in-x86-assembly/
 ---
 
